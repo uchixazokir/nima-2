@@ -1,0 +1,25 @@
+body{
+    background-color: #1F242D;
+}
+header{
+    height: 78px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header a{
+   font-size: 17px;
+   text-decoration: none;
+   color: white;
+   
+}
+header div{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: -70px;
+}
